@@ -6,7 +6,7 @@
 ## Sanberg
 ![Sandberg](sandberg.jpg)
 ## Custom
-![otros](custom.jpg)
+![otro](custom.jpg)
 
 
 

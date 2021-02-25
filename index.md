@@ -50,7 +50,7 @@ Sandberg|California II|2017|Germany
 Jackson| Kip Winger|1991|Japan
 Hibryd|Mio|2020|Usa,Mex,Spa
 
-[LINK A LA OTRA PAGINA CREADA!!!!](bajos.md)
+[LINK A LA OTRA PAGINA CREADA!!!](bajos.md)
 
 
 
