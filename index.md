@@ -28,7 +28,7 @@ Comando en linux para ver los servicios que han fallado
 ***
 
 
-<center><b><font size=10>este es paquito </font></b></center>
+<html><center><b><font size=10>este es paquito </font></b></center></html>
 
 *Probando html en titulo anterior*
 ![error en la imagen](paquito2.jpg)
